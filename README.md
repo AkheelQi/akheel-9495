@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akheel
-- 💻 I’m interested in Tech, basically Cybersecurity and philosophy of beginning and correlation
+- 💻 I’m interested in Tech, especially Cybersecurity and Networking
 - 🛡️ I’m currently learning Pentesting, SOC and adding skills to my armamentarium
 - 💞️ I’m looking to collaborate on new projects, feel free to connect me. I can help you, maybe share my little knowledge.
 - 📫 How to reach me : Do message on Linkedin www.linkedin.com/in/muakheel/
